@@ -46,7 +46,7 @@ span#burguer{
     cursor: pointer;
 }
 
-span#burguer a:hover{
+span#burguer:hover{
     background-color: white;
     color: black;
 }
